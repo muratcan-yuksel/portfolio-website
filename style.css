@@ -8,12 +8,14 @@
       padding: 10px;
       
   }
+  
   .item {
     border: 1px solid rgba(0, 0, 0, 0.8);
  
   }
 
 #navbar{
+    
 grid-column:1/13;
 grid-row:1/2;
 
@@ -27,6 +29,7 @@ grid-row:1/2;
 #myname{
     grid-column:1/13;
     grid-row:5/10;
+    
 }
 
 
