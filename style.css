@@ -3,8 +3,8 @@
       max-height: 150vh;
       display:grid;
       grid-template-columns: repeat(12,1fr);
-      grid-template-rows: repeat(10,1fr);
-      background-color: #44636d;
+      grid-template-rows: repeat(12,1fr);
+      background-color: #ffffff;
       padding: 10px;
       
   }
@@ -36,9 +36,35 @@ grid-row:1/2;
 }
 #calculator{
     grid-row: 5/7;
-    grid-column: 5/8;
+    grid-column: 1/4;
 }
 #sketch{
     grid-row: 5/7;
-    grid-column:8/13;
+    grid-column:9/13;
+}
+#cockroach{
+    grid-row: 5/7;
+    grid-column: 4/7;
+}
+#googlepage{
+    grid-row: 5/7;
+    grid-column: 7/10;
+}
+#stack{
+    grid-row: 7/8;
+    grid-column:1/13;
+    text-align:center;
+}
+#html{
+    grid-row:8/9;
+}
+#css{
+    grid-row:8/9;
+}
+#js{
+    grid-row:8/9;
+}
+#contact{
+    grid-row:9/11;
+    grid-column:1/13;
 }
