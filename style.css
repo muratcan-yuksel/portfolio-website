@@ -30,12 +30,13 @@
   .sticky + .content {
     padding-top: 60px;
   }
+ 
   #container{
       
       display:grid;
       grid-template-columns: repeat(12,1fr);
       grid-template-rows: repeat(24,1fr);
-      background-color: #ffffff;
+      background-color: #f1efef;
       padding: 10px;
       
   }
@@ -55,13 +56,10 @@ grid-row:1/2;
     grid-column: 1/13;
     grid-row: 3/10;
 }
-#hello2{
-    grid-column: 1/13;
-    grid-row: 2/10;
-}
+
 
 #myname{
-    grid-column:1/13;
+    grid-column:3/13;
     grid-row:4/10;
     
 }
@@ -136,11 +134,12 @@ grid-row:1/2;
  
   
   .glitch {
-    color: rgb(223, 191, 191);
+    color: rgb(14, 13, 13);
     position: relative;
     font-size: 9vw;
     // margin: 70px 200px;
     animation: glitch 5s 5s infinite;
+    font-size: 70px;
     
   }
   
@@ -149,7 +148,7 @@ grid-row:1/2;
     position: absolute;
     left: -2px;
     text-shadow: -5px 0 magenta;
-    background: black;
+    
     overflow: hidden;
     top: 0;
     animation: noise-1 3s linear infinite alternate-reverse, glitch 5s 5.05s infinite;
@@ -160,7 +159,7 @@ grid-row:1/2;
     position: absolute;
     left: 2px;
     text-shadow: -5px 0 lightgreen;
-    background: black;
+    
     overflow: hidden;
     top: 0;
     animation: noise-2 3s linear infinite alternate-reverse, glitch 5s 5s infinite;
