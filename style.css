@@ -1,6 +1,29 @@
 
   #container{
-      display:flex;
-      grid-template-columns: 15;
-      grid-template-rows: 15;
+      max-height: 150vh;
+      display:grid;
+      grid-template-columns: repeat(10,1fr);
+      grid-template-rows: repeat(10,1fr);
+      background-color: #44636d;
+      padding: 10px;
+      
   }
+  .item {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+ 
+  }
+
+#navbar{
+grid-column:1/11;
+grid-row:1/2;
+
+}
+
+#hello{
+    grid-column: 1/11;
+    grid-row: 2/4;
+}
+#myname{
+    grid-column:1/11;
+    grid-row:3/4;
+}
