@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="512" height="512" id="svg5823" version="1.1" inkscape:version="0.48.5 r" sodipodi:docname="uk_united_kingdom_britain_british_flag.svg">
+  <defs id="defs5825">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5778">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect5780" width="480" height="480" x="930.01068" y="-79.22789"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3061">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect3063" width="480" height="480" x="16.000002" y="556.36218"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3448">
+      <rect y="556.36218" x="16.000023" height="480" width="480" id="rect3450" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3470">
+      <rect y="556.36218" x="16.000023" height="480" width="480" id="rect3472" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5670">
+      <rect y="246.36218" x="-712" height="480" width="480" id="rect5672" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5674">
+      <rect y="556.36218" x="16" height="480" width="480" id="rect5676" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5729">
+      <rect y="549.27625" x="20.014456" height="480" width="480" id="rect5731" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5806">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect5808" width="480" height="480" x="20.014456" y="549.27625"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3025">
+      <rect style="fill:#f1c40f;fill-opacity:1;stroke:none" id="rect3027" width="480" height="480" x="20.014456" y="549.27625" ry="48"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.1767767" inkscape:cx="312.45547" inkscape:cy="220.82352" inkscape:document-units="px" inkscape:current-layer="g5733" showgrid="false" inkscape:window-width="1366" inkscape:window-height="713" inkscape:window-x="0" inkscape:window-y="26" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true"/>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-540.36218)">
+    <g id="g5733">
+      <g id="g5810" transform="translate(-4.0144558,7.0859349)" clip-path="url(#clipPath3025)">
+        <g clip-path="url(#clipPath5806)" id="g5787">
+          <rect y="549.27625" x="20.014456" height="480" width="480" id="rect2999" style="fill:#2b4896;fill-opacity:1;stroke:none"/>
+          <g id="g5769">
+            <path id="path5417" d="m 232.19609,761.96312 -256.656242,284.68748 50.25,0 0,15.9062 241.031242,-270.43743 z" style="fill:#ffffff;fill-opacity:1;stroke:none" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc"/>
+            <path id="path5415" d="m -8.75279,1084.1356 248.17417,-276.38741 -18.92417,1.85616 0,-0.875 -240.8125,264.90625 z" style="fill:#e32d3c;fill-opacity:1;stroke:none" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc"/>
+          </g>
+          <g id="g5755">
+            <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="m 498.79506,514.95268 -256.65625,284.6875 50.25,0 0,15.90625 242.03125,-268.4375 -35.625,-32.15625 z" id="rect3435" inkscape:connector-curvature="0"/>
+            <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="m 509.26444,518.74497 -249.5,274.53125 20.25,0 0,0.875 240.8125,-264.90625 -11.5625,-10.5 z" id="rect5381" inkscape:connector-curvature="0"/>
+          </g>
+          <g transform="matrix(0.99932034,0.03686276,0.03686276,-0.99932034,-297.11434,1319.5878)" id="g5779">
+            <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="m 498.79506,514.95268 -256.65625,284.6875 50.25,0 0,15.90625 242.03125,-268.4375 -35.625,-32.15625 z" id="path5781" inkscape:connector-curvature="0"/>
+            <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="m 509.26444,518.74497 -249.5,274.53125 20.25,0 0,0.875 240.8125,-264.90625 -11.5625,-10.5 z" id="path5783" inkscape:connector-curvature="0"/>
+          </g>
+          <rect y="549.27625" x="220.01445" height="480" width="80" id="rect3001" style="fill:#ffffff;fill-opacity:1;stroke:none"/>
+          <g id="g5759" transform="matrix(-1,0,0,1,797.31017,256.40901)">
+            <path inkscape:connector-curvature="0" id="path5761" d="m 498.79506,514.95268 -256.65625,284.6875 50.25,0 0,15.90625 242.03125,-268.4375 -35.625,-32.15625 z" style="fill:#ffffff;fill-opacity:1;stroke:none"/>
+            <path inkscape:connector-curvature="0" id="path5763" d="m 509.26444,518.74497 -249.5,274.53125 20.25,0 0,0.875 240.8125,-264.90625 -11.5625,-10.5 z" style="fill:#e32d3c;fill-opacity:1;stroke:none"/>
+          </g>
+          <rect style="fill:#ffffff;fill-opacity:1;stroke:none" id="rect3003" width="80" height="480" x="749.27625" y="-500.01447" transform="matrix(0,1,-1,0,0,0)"/>
+          <rect style="fill:#e32d3c;fill-opacity:1;stroke:none" id="rect3005" width="48" height="480" x="236.01445" y="549.27625"/>
+          <rect y="-500.01447" x="765.27625" height="480" width="48" id="rect3008" style="fill:#e32d3c;fill-opacity:1;stroke:none" transform="matrix(0,1,-1,0,0,0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="uk_united_kingdom_britain_british_flag" dc:description="uk_united_kingdom_britain_british_flag" dc:publisher="Iconscout" dc:date="2017-05-26" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Vignesh Oviyan</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

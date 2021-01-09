@@ -41,7 +41,7 @@
     
 }
 .item {
- 
+
 
 }
 
@@ -62,6 +62,22 @@ grid-row:1/2;
   grid-column:3/13;
   grid-row:4/10;
   
+}
+#languages{
+  grid-column:3/13;
+  grid-row:6/8;
+}
+#english{
+  grid-column:6/8;
+  grid-row:6/8;
+}
+#french{
+  grid-column:8/10;
+  grid-row:6/8;
+}
+#turkish{
+  grid-column:10/12;
+  grid-row:6/8;
 }
 
 
@@ -155,7 +171,7 @@ text-align:center;
   font-size: 9vw;
   // margin: 70px 200px;
   animation: glitch 5s 5s infinite;
-  font-size: 70px;
+  font-size: 80px;
   
 }
 
