@@ -2,7 +2,7 @@
   #container{
       max-height: 150vh;
       display:grid;
-      grid-template-columns: repeat(10,1fr);
+      grid-template-columns: repeat(12,1fr);
       grid-template-rows: repeat(10,1fr);
       background-color: #44636d;
       padding: 10px;
@@ -14,16 +14,31 @@
   }
 
 #navbar{
-grid-column:1/11;
+grid-column:1/13;
 grid-row:1/2;
 
 }
 
 #hello{
-    grid-column: 1/11;
+    grid-column: 1/13;
     grid-row: 2/4;
 }
+
 #myname{
-    grid-column:1/11;
+    grid-column:1/13;
     grid-row:3/4;
+}
+
+#mywork{
+    grid-row: 4/5;
+    grid-column:1/13;
+    text-align: center;
+}
+#calculator{
+    grid-row: 5/7;
+    grid-column: 5/8;
+}
+#sketch{
+    grid-row: 5/7;
+    grid-column:8/13;
 }
