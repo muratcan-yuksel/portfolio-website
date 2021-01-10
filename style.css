@@ -1,35 +1,9 @@
-/* Style the navbar */
-#navbar {
-  overflow: hidden;
-  background-color: #333;
+@font-face{
+  font-family:newFont;
+  src:url(slkscr.ttf);
 }
 
-/* Navbar links */
-#navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
 
-/* Page content */
-.content {
-  padding: 16px;
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 60px;
-}
 
 #container{
   
@@ -38,7 +12,7 @@
     grid-template-rows: repeat(24,5vw);
     background-color: #ffffff;
     padding: 10px;
-    
+    font-family: newFont;
 }
 .item {
 
@@ -54,7 +28,8 @@ grid-row:1/2;
 
 #hello{
   grid-column: 1/13;
-  grid-row: 3/10;
+  grid-row: 2/10;
+ 
 }
 
 
@@ -171,7 +146,8 @@ text-align:center;
   font-size: 9vw;
   // margin: 70px 200px;
   animation: glitch 5s 5s infinite;
-  font-size: 80px;
+  font-size: 120px;
+  
   
 }
 
