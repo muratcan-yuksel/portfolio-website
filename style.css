@@ -127,6 +127,11 @@ height: 100%;
 object-fit: cover;
 
 }
+.picture:hover{
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
 .icon{
 width: 50%;
 height: 50%;
