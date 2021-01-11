@@ -127,3 +127,26 @@
       transform: rotateX(0deg) skewX(0deg);
     }
   }
+
+  /*CSS GRID*/
+  .glitchPart{
+    background-size: cover;
+    margin-top: 6rem;
+    margin-left: 2rem;
+    padding: 4rem 2rem;
+    /* grid styles */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    align-items: center;
+  }
+  #myname{
+    background-size: cover;
+    margin-top: -7rem;
+    margin-left: 7rem;
+    padding: 4rem 2rem;
+    /* grid styles */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    align-items: center;
+  }
+ 
