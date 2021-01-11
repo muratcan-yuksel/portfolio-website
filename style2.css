@@ -2,7 +2,27 @@
     font-family:newFont;
     src:url(slkscr.ttf);
   }
+
   
+
+  /* Generic styles */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  a {
+    background-color: goldenrod;
+    text-decoration: none;
+    color: white;
+    border-radius: .25rem;
+    text-align: center;
+    display: inline-block;
+    transition: all .3s;
+  }
+  
+  a:hover {
+    opacity: .6;
+  }
 
 /*glitch part*/
 
@@ -139,6 +159,7 @@
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     align-items: center;
   }
+ 
   #myname{
     background-size: cover;
     margin-top: -7rem;
@@ -150,3 +171,71 @@
     align-items: center;
   }
  
+/* portfolio part*/
+
+  .portfolio {
+    padding: 2rem;
+  }
+  
+  .portfolio > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+  }
+  
+  .portfolio > ul > li {
+    border: 1px solid #E2E2E2;
+    border-radius: .5rem;
+  }
+  
+  .portfolio > ul > li > figure {
+    max-height: 220px;
+    overflow: hidden;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    position: relative;
+    
+  }
+  
+  .portfolio > ul > li > figure > img {
+    width: 100%;
+  }
+  
+  .portfolio > ul > li > figure > figcaption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,.7);
+    width: 100%;
+  }
+  
+  .portfolio > ul > li > figure > figcaption > h3 {
+    color: white;
+    padding: .75rem;
+    font-size: 1.25rem;
+  }
+  
+  .portfolio > ul > li > p {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1rem .75rem;
+    color: #666666;
+  }
+  
+  .portfolio > ul > li > a {
+    padding: .5rem 1rem;
+    margin: .5rem;
+  }
+  /*remove the annoying dots */
+  li{
+      color: white;
+  }
+  /* footer */
+  #foot {
+    background-color: #333;
+    padding: .75rem;
+    color: white;
+    text-align: center;
+    font-size: .75rem;
+    margin-top: 200px;
+    
+  }
