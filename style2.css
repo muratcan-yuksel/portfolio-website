@@ -151,6 +151,7 @@
   /*CSS GRID*/
   .glitchPart{
     background-size: cover;
+    /*it's not total web responsive bcs of these margins*/
     margin-top: 6rem;
     margin-left: 2rem;
     padding: 4rem 2rem;
